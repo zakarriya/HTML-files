@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    background-color: rgb(88, 88, 152);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+
+}
+.somrthing{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 200px;
+}
+.iphone{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 250px;
+}

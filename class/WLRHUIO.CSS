@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.cart {
+    background: rgb(red, green, blue);
+    width: 200px;
+    height: 200px;
+}

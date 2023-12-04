@@ -1,0 +1,73 @@
+.wiki{
+    text-align: center;
+    color: rgb(19, 19, 202);
+    font: 500;
+}
+.head{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.En{
+    padding-left: 550px;
+    padding-top: 100px;
+    color: blue;
+    font-size: larger;
+}
+.no{
+    padding-left: 500px;
+    margin-top: -18px;
+    color: dimgrey;
+}
+
+.you{
+    padding-left: 530px;
+    margin-top: 8px;
+    color: blue;
+    font-size: larger;
+}
+
+.num{
+    padding-left: 490px;
+    margin-top: -20px;
+    color: dimgrey;
+}
+
+.fre{
+    padding-left: 510px;
+    margin-top: -1px;
+    color: blue;
+    font-size: larger;
+}
+
+.nub{
+    padding-left: 460px;
+    margin-top: -20px;
+    color: dimgrey;
+}
+
+.p1{
+    padding-left: 490px;
+    margin-top: -10px;
+    color: blue;
+    font-size: larger;
+}
+
+.p2{
+    padding-left: 455px;
+    margin-top: -20px;
+    color: dimgrey;
+}
+
+.p3{
+    padding-left: 490px;
+    margin-top: -10px;
+    color: blue;
+    font-size: larger;
+}
+.p4{
+    padding-left: 445px;
+    margin-top: -20px;
+    color: dimgrey;
+}
+
